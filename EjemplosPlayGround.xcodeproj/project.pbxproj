@@ -36,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CF24A2D92AC390190041D00D /* LoopFor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LoopFor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CF427BF72AC9B2C50033C633 /* BucleWhile.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BucleWhile.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CF427BF82AC9BDA40033C633 /* BucleRepeatWhile.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BucleRepeatWhile.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CF7BA8232AB8AD1B00885963 /* OperadoresAritmeticos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OperadoresAritmeticos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CF7BA8242AB8F8D100885963 /* EstructuraControlCondicional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EstructuraControlCondicional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CF85F83D2AB374A500203BD1 /* EjemplosPlayGround.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EjemplosPlayGround.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -131,7 +134,13 @@
 				CF7BA8232AB8AD1B00885963 /* OperadoresAritmeticos.playground */,
 				CF7BA8242AB8F8D100885963 /* EstructuraControlCondicional.playground */,
 				CFE621F72AC3658900882160 /* Switch.playground */,
+<<<<<<< HEAD
 				CFE621F82AC38E4400882160 /* LoopsFor.playground */,
+=======
+				CF24A2D92AC390190041D00D /* LoopFor.playground */,
+				CF427BF72AC9B2C50033C633 /* BucleWhile.playground */,
+				CF427BF82AC9BDA40033C633 /* BucleRepeatWhile.playground */,
+>>>>>>> 978107100b4a01db9c165fe79ab36fc8866539a5
 			);
 			path = EjemplosPlayGround;
 			sourceTree = "<group>";
