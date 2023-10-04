@@ -61,6 +61,7 @@
 		CF85F8772AB79FBB00203BD1 /* Enumeraciones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumeraciones.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CF85F8782AB7B18F00203BD1 /* Rangos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Rangos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CFE621F72AC3658900882160 /* Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Switch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CFE621F82AC38E4400882160 /* LoopsFor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LoopsFor.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +131,7 @@
 				CF7BA8232AB8AD1B00885963 /* OperadoresAritmeticos.playground */,
 				CF7BA8242AB8F8D100885963 /* EstructuraControlCondicional.playground */,
 				CFE621F72AC3658900882160 /* Switch.playground */,
+				CFE621F82AC38E4400882160 /* LoopsFor.playground */,
 			);
 			path = EjemplosPlayGround;
 			sourceTree = "<group>";
