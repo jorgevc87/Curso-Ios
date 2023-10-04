@@ -23,7 +23,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>4</integer>
 		</dict>
 		<key>BooleanosYValoresLogicos (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +44,49 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>12</integer>
+		</dict>
+		<key>BucleRepeatWhile (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>BucleRepeatWhile (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>BucleRepeatWhile (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>BucleWhile (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>BucleWhile (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>BucleWhile (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
 		</dict>
 		<key>CaracteresYCadenas (Playground) 1.xcscheme</key>
 		<dict>
@@ -65,7 +107,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Diccionarios (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,12 +128,12 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>2</integer>
 		</dict>
 		<key>EjemplosPlayGround.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Enumeraciones (Playground) 1.xcscheme</key>
 		<dict>
@@ -112,7 +154,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>31</integer>
+			<integer>13</integer>
 		</dict>
 		<key>EstructuraControlCondicional (Playground) 1.xcscheme</key>
 		<dict>
@@ -133,7 +175,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>7</integer>
 		</dict>
 		<key>LoopFor (Playground) 1.xcscheme</key>
 		<dict>
@@ -154,7 +196,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>37</integer>
+			<integer>5</integer>
 		</dict>
 		<key>MyPlayground (Playground) 1.xcscheme</key>
 		<dict>
@@ -175,7 +217,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>10</integer>
 		</dict>
 		<key>OperadoresAritmeticos (Playground) 1.xcscheme</key>
 		<dict>
@@ -196,7 +238,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Rangos (Playground) 1.xcscheme</key>
 		<dict>
@@ -217,7 +259,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>34</integer>
+			<integer>9</integer>
 		</dict>
 		<key>Switch (Playground) 1.xcscheme</key>
 		<dict>
@@ -238,7 +280,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>3</integer>
 		</dict>
 		<key>TiposDatosPlayground (Playground) 1.xcscheme</key>
 		<dict>
@@ -259,7 +301,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>11</integer>
 		</dict>
 		<key>Tuplas (Playground) 1.xcscheme</key>
 		<dict>
@@ -280,7 +322,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
